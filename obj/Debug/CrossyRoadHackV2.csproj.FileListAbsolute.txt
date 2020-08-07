@@ -1,0 +1,6 @@
+C:\Users\ProMa\source\repos\CrossyRoadHackV2\bin\Debug\CrossyRoadHackV2.exe.config
+C:\Users\ProMa\source\repos\CrossyRoadHackV2\bin\Debug\CrossyRoadHackV2.exe
+C:\Users\ProMa\source\repos\CrossyRoadHackV2\bin\Debug\CrossyRoadHackV2.pdb
+C:\Users\ProMa\source\repos\CrossyRoadHackV2\obj\Debug\CrossyRoadHackV2.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\CrossyRoadHackV2\obj\Debug\CrossyRoadHackV2.exe
+C:\Users\ProMa\source\repos\CrossyRoadHackV2\obj\Debug\CrossyRoadHackV2.pdb
