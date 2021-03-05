@@ -1,6 +1,6 @@
 # Crossy Road Hack
 
-##### **[Download here](https://github.com/kyeondiscord/crossy-road-hack/releases/download/latest/CrossyRoadHack.exe)**
+##### **[Download here](https://github.com/kyeondiscord/crossy-road-hack/releases/download/3.0/CrossyRoadHack.exe)**
 
 - Set your coins amount
 - Set your highscore amount
