@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-
 namespace CrossyRoadHack
 {
     public class gamedata
@@ -9,7 +8,7 @@ namespace CrossyRoadHack
         {
             public string id { get; set; }//Skin ID
             public bool un { get; set; }//Unlocked
-            public int pl { get; set; }
+            public int pl { get; set; }//Times used with that character
             public bool pa { get; set; }
             public int pr { get; set; }
             public bool vr { get; set; }
